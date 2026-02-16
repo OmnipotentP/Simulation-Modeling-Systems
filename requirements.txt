@@ -1,0 +1,5 @@
+ciw>=2.3.0
+numpy
+pandas
+matplotlib
+scipy
